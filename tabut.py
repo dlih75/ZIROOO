@@ -49,13 +49,12 @@ def cb():
     
 os.system("figlet ZIRO")
 
-logo = logo ="""
+logo = logo = """
 
 AUTHOR:ZIRO
-Telegram@XZIRO12
-chanle@kurdkurd1234
+Telegram@xuyri
+chanle@del4m
 
-ADMIN CHANL@AlphaIron09@Hama1234568@c_rac1998@mometaman
 
 """
 back = 0
@@ -70,7 +69,7 @@ def menu():
     print 42 * '\x1b[1;91m-'
     print '\x1b[1;92m[1]\x1b[1;97m 1 leda'
     print '[2] \033[1;97mTOOL [\033[1;93m [UPDATE]'
-    print '[0]\x1b[1;97m  chwnadarawa            '
+    print '[0]\x1b[1;97m  OUT            '
     print ' '
     print 42 * '\x1b[1;91m-'
     action()
@@ -86,7 +85,7 @@ def action():
     elif bch == '1':
         os.system('clear')
         print logo
-        os.system("figlet ZIRO")
+        os.system("figlet XUYRI")
         print '\x1b[1;97m 750  751 752 770 772 773 774 780 781 782'
         try:
             c = raw_input('\x1b[1;97m Codek dane   : ')
@@ -103,10 +102,10 @@ def action():
     elif bch == '2':
         os.system('clear')
         print logo
-        os.system("figlet ZIRO ")
+        os.system("figlet XUYRI ")
         print '750- 751 - 752 - 770 - 771 - 772 - 780 - 781 - 782 - 783'
         try:
-            c = raw_input(' Codek Dabne  : ')
+            c = raw_input(' code  : ')
             k = '+964'
             idlist = '.txt'
             for line in open(idlist, 'r').readlines():
